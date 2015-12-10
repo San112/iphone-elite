@@ -9,7 +9,7 @@
 /* Begin PBXAggregateTarget section */
 		D93DA0FC0D09B2A4004C7856 /* HeaderDoc */ = {
 			isa = PBXAggregateTarget;
-			buildConfigurationList = D93DA10A0D09B2BF004C7856 /* Build configuration list for PBXAggregateTarget "HeaderDoc" */;
+			buildConfigurationList =  /* Build configuration list for PBXAggregateTarget "HeaderDoc" */;
 			buildPhases = (
 				D93DA0FB0D09B2A4004C7856 /* ShellScript */,
 			);
